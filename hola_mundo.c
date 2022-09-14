@@ -1,9 +1,13 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
 
 		printf ("Hola mundo estamos aprendiendo a usar GITTT:3");
-		//jdjfjdjdjdjdjd
+		
 
+		for(int i=1; i<=10; i++)
+			printf("%d",i);
+
+		return 0;
 }
